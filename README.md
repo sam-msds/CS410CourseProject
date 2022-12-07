@@ -100,10 +100,9 @@ players_sentiments.append(TextBlob(tweet.text).sentiment)
 
 Plot the sentiment result using Matplotlib in horizontal bar chart
 
-![United States_senteminet](https://user-images.githubusercontent.com/112344802/206137601-2483140c-e4ef-4df0-8283-7ce2163fd451.png)
+<img width="507" alt="United States_senteminet" src="https://user-images.githubusercontent.com/112344802/206141254-63b5d338-8d99-4535-afde-f990389d6dac.png">
 
-![Netherlands_senteminet](https://user-images.githubusercontent.com/112344802/206137523-bc2f0faa-5f28-44ae-948d-cca9d647e5dc.png)
-
+<img width="489" alt="Netherlands_senteminet" src="https://user-images.githubusercontent.com/112344802/206141332-a6f27bdc-a0ff-4bd7-888b-ce7e0924afbf.png">
 
 ### 5. Using BM25Okapi perform a positive sentiment Analysis for each players.
 
