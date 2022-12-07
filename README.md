@@ -120,9 +120,10 @@ score = bm25.get_scores(terms)
 
 Plot the BM25 sentiment result using Matplotlib in horizontal bar chart
 
-![United States_BM25_Sentiment](https://user-images.githubusercontent.com/112344802/206138309-dd9731a3-fea3-4677-9c7a-cebb41594a0c.png)
+<img width="527" alt="United States_BM25_Sentiment" src="https://user-images.githubusercontent.com/112344802/206142121-3a7a0c7b-9839-4508-83fa-d46edbfeea38.png">
 
-![Netherlands_BM25_Sentiment](https://user-images.githubusercontent.com/112344802/206138353-c4021d25-4d8c-4213-a912-a7c8dcab2b17.png)
+<img width="502" alt="Netherlands_BM25_Sentiment" src="https://user-images.githubusercontent.com/112344802/206142131-c0d72605-2226-420d-ad6d-ffc4c7eb3a9a.png">
+
 
 # Conclusion
 This code gives a basic structure of sentiment analysis using Textblob and also use OkapiBM25 for positive sentiment analysis based on positive terms.
