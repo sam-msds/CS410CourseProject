@@ -48,5 +48,9 @@ https://matplotlib.org/
 
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
 
+# API Authentication
+
+I have used my own API keys to fetch tweets.You need to suppy your own API keys to run the process.
+
 
 
