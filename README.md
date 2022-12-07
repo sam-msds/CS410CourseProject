@@ -16,8 +16,37 @@ I am working in this project alone.
 # Code Documentation
 
 First of all we need to install all the required libraries.
-
+```
 pip install tweepy
+
 pip install BeautifulSoup4 
+```
+Below packages are also required
+
+## tweepy
+https://www.tweepy.org/
+
+An easy-to-use Python library for accessing the Twitter API.
+
+## beautifulsoap
+https://beautiful-soup-4.readthedocs.io/en/latest/
+
+Beautiful Soup is a Python library for pulling data out of HTML and XML files
+
+## pandas
+https://pandas.pydata.org/docs/index.html
+
+pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+
+## NumPy
+https://numpy.org/
+
+NumPy is an open source project aiming to enable numerical computing with Python
+
+## Matplotlib
+https://matplotlib.org/
+
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
+
 
 
